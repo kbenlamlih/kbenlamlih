@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @kbenlamlih
-- 🌱 💻 I’m currently learning *Computer Science*
-- 📫 How to reach me : kenza.benlamlih@insa-lyon.fr
+- 🌱 💻 I’m currently interested *Computer Vision*
+- 📫 How to reach me : kenza.benlamlih@inserm.fr
